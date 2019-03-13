@@ -1,0 +1,17 @@
+C:\Users\АбдишевМ\source\repos\TemplateLesson\TemplateLesson\bin\Debug\TemplateLesson.exe.config
+C:\Users\АбдишевМ\source\repos\TemplateLesson\TemplateLesson\bin\Debug\TemplateLesson.exe
+C:\Users\АбдишевМ\source\repos\TemplateLesson\TemplateLesson\bin\Debug\TemplateLesson.pdb
+C:\Users\АбдишевМ\source\repos\TemplateLesson\TemplateLesson\obj\Debug\TemplateLesson.csprojAssemblyReference.cache
+C:\Users\АбдишевМ\source\repos\TemplateLesson\TemplateLesson\obj\Debug\MainWindow.g.cs
+C:\Users\АбдишевМ\source\repos\TemplateLesson\TemplateLesson\obj\Debug\App.g.cs
+C:\Users\АбдишевМ\source\repos\TemplateLesson\TemplateLesson\obj\Debug\TemplateLesson_MarkupCompile.cache
+C:\Users\АбдишевМ\source\repos\TemplateLesson\TemplateLesson\obj\Debug\TemplateLesson_MarkupCompile.lref
+C:\Users\АбдишевМ\source\repos\TemplateLesson\TemplateLesson\obj\Debug\MainWindow.baml
+C:\Users\АбдишевМ\source\repos\TemplateLesson\TemplateLesson\obj\Debug\TemplateLesson.g.resources
+C:\Users\АбдишевМ\source\repos\TemplateLesson\TemplateLesson\obj\Debug\TemplateLesson.Properties.Resources.resources
+C:\Users\АбдишевМ\source\repos\TemplateLesson\TemplateLesson\obj\Debug\TemplateLesson.csproj.GenerateResource.cache
+C:\Users\АбдишевМ\source\repos\TemplateLesson\TemplateLesson\obj\Debug\TemplateLesson.csproj.CoreCompileInputs.cache
+C:\Users\АбдишевМ\source\repos\TemplateLesson\TemplateLesson\obj\Debug\TemplateLesson.exe
+C:\Users\АбдишевМ\source\repos\TemplateLesson\TemplateLesson\obj\Debug\TemplateLesson.pdb
+C:\Users\АбдишевМ\source\repos\TemplateLesson\TemplateLesson\obj\Debug\DarkTheme.baml
+C:\Users\АбдишевМ\source\repos\TemplateLesson\TemplateLesson\obj\Debug\App.baml
